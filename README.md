@@ -3,7 +3,6 @@
 - I like to run.
 - I like to cook.
 - I like to code.
-- I looove my cats! 😻
 
 <!--
 **lucianorocha-dev/lucianorocha-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
